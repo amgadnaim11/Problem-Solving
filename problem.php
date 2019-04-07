@@ -10,5 +10,5 @@ $position = 5;
 
 }
 
-$test = MinStep(26);
+$test = MinStep(5);
 echo $test;
